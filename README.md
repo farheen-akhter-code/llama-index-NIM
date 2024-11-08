@@ -36,6 +36,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/yourusername/yourprojectname.git
 cd yourprojectname
+ ```
 
 ## Contributing
 
@@ -49,6 +50,7 @@ We welcome and encourage contributions to improve this project! Here’s how you
    ```bash
    git clone https://github.com/your-username/project-name.git
    cd project-name
+   
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code with attribution.  
